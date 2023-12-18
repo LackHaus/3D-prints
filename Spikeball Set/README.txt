@@ -16,3 +16,6 @@ and female end to snap
 male_male:
 Part of the circle with two 
 male ends
+
+Res : 0.3 mm
+No supports
